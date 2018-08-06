@@ -1,0 +1,4 @@
+<nav search_view="search" color="#ff8b00">
+  <view name="topology_standalone" default='true' />
+  <view name="search"/>
+</nav>

@@ -1,0 +1,17 @@
+name,"network_traffic"
+"vol-disk-1-instance-1-us-west1-b",0
+"vol-disk-1-instance-2-us-central1-c",0
+"vol-disk-1-instance-3-us-central1-c",0
+"vol-disk-1-instance-4-us-central1-c",0
+"vol-disk-1-instance-5-us-central1-a",0
+"vol-disk-1-instance-6-northamerica-northeast1-a",0
+"vol-disk-1-instance-7-asia-northeast1-b",0
+"vol-disk-1-splunk-insights-for-infrastructure-northamerica-northeast1-a",0
+"vol-instance-1-instance-1-us-west1-b",120046
+"vol-instance-2-instance-2-us-central1-c",77824
+"vol-instance-3-instance-3-us-central1-c",36871
+"vol-instance-4-instance-4-us-central1-c",81001
+"vol-instance-5-instance-5-us-central1-a",86016
+"vol-instance-6-instance-6-northamerica-northeast1-a",57902
+"vol-instance-7-instance-7-asia-northeast1-b",62224
+"vol-splunk-insights-for-infrastructure-splunk-insights-for-infrastructure-northamerica-northeast1-a",0
